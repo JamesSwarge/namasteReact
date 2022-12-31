@@ -14,3 +14,19 @@ body {
   font-style: normal;
   color: #454545;
 }
+.not-loaded {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 44vh;
+  margin: 20px 10px;
+  text-transform: uppercase;
+}
+.title {
+  text-align: center;
+  margin: 20px 0;
+}
+.container {
+  margin-top: 50px;
+}

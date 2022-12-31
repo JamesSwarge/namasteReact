@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Live React Course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesSwarge/namasteReact.git"
+  },
+  "author": "James Swarge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesSwarge/namasteReact/issues"
+  },
+  "homepage": "https://github.com/JamesSwarge/namasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
